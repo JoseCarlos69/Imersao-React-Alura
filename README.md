@@ -5,4 +5,5 @@ Nessa aula foi dessenvolvido a primeira parte do projeto, a página inicial e ta
 
 ![imagem_2022-01-24_171219](https://user-images.githubusercontent.com/61249888/150857221-58d9a62e-db85-4b76-953f-2190bfdc5493.png)
 
-# Clique aqui para ver o site: https://imersao-react-aula-1.vercel.app #
+# Clique abaixo para ver o site: #
+https://imersao-react-aula-1.vercel.app
